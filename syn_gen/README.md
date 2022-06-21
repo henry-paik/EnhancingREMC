@@ -14,7 +14,7 @@ python3 run_mlm.py --bs 15 --pretrained-model roberta-base --train-data ./data/t
 python3 tacred-gen.py --train-data --train-data ./../nyt10/data/train.json --gen-per-sent 300 --n-sub 0.1 --model-path ./checkpoint/PATH/TO/FINETUNED/MLM --file-seed {1, ...}
 ```
 - merge sperately generate .csv files
-	- merge filename should be: merge-XX...XX.csv
+	- merge filename should be: merge-{...}.csv
 ```
 cd source
 python3 merge_csv.py --part-fn FILE/NAME/BEFORE/FILESEED
