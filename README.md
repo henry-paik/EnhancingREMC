@@ -1,6 +1,6 @@
 # Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction
 
-**PyTorch implementation of our paper: Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction
+**PyTorch implementation of our paper: Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction**
 
 ## TACRED
 - Please refer to `tacred` dir
