@@ -2,6 +2,8 @@
 
 **PyTorch implementation of our paper: Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction**
 
+![Architecture](arch.png)
+
 ## TACRED
 - Please refer to `tacred` dir
 
