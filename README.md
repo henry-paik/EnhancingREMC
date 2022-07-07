@@ -1,6 +1,6 @@
 # Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction
 
-**PyTorch implementation of our paper: Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction**
+**PyTorch implementation of our paper: [Enhancing Targeted Minority Class Prediction in Sentence-Level Relation Extraction](https://www.mdpi.com/1424-8220/22/13/4911)**
 
 ![Architecture](arch.png)
 
