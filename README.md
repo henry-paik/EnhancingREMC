@@ -6,8 +6,12 @@
 
 ## Environments
 - python (3.8.8)
-- transformers (4.6.1)
 - cuda (11.4)
+
+## Requirements
+- torch (1.8.0)
+- transformers (4.6.1)
+- sklearn
 
 ## TACRED
 - Please refer to `tacred` dir
