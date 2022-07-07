@@ -14,7 +14,7 @@ python3 preprocess_data.py --file-in ./data/test.json --fn-out test
 python3 run_tacred.py --n-ref 4 --experiments-name ref4 --data-pkl-path ./data/train.pkl --val-data-pkl-path ./data/dev.pkl
 ```
 
-# Fintune
+# Additional Training
 - Prepare synthetic dataset (refer to `./../syn_gen`)
 - Run 
 ```
