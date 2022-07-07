@@ -4,6 +4,11 @@
 
 ![Architecture](arch.png)
 
+## Environments
+- python (3.8.8)
+- transformers (4.6.1)
+- cuda (11.4)
+
 ## TACRED
 - Please refer to `tacred` dir
 
