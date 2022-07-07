@@ -11,6 +11,7 @@
 ## Requirements
 - torch (1.8.0)
 - transformers (4.6.1)
+- numpy (1.19.2)
 - sklearn
 
 ## TACRED
