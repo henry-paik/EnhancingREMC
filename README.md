@@ -17,6 +17,10 @@
 ## TACRED
 - Please refer to `tacred` dir
 
+## NYT10m
+- Disclaimer: This is the raw files. Please use at your own risk.
+- Please refer to `nyt10` dir
+
 ## Generating synthetic data
 - Please refer to `syn_gen` dir
 
