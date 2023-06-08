@@ -22,7 +22,7 @@ python3 run_tacred.py --n-ref 4 --experiments-name ref4 --data-pkl-path ./data/t
 - Execute the following commands
 ```
 # e.g.
-python3 finetune_mcam.py --n-ref 4 --resume ./checkpoint/ref4_6-checkpoint-epoch1.pth --seed 6 --refval-ep 0.37 --main-ep 0.37 --select-r 0.63 --factor 8 --aug-data-path ./data/merge-tacred-gen-roberta-base_sub01_gen300_tau15-2022-02-11_type_inserted_2022-01-11.json --suffix sub01tau15
+python3 finetune_mcam.py --n-ref 4 --resume ./checkpoint/ref4_6-checkpoint-epoch1.pth --seed 6 --select-r 0.63 --factor 8 --aug-data-path ./data/merge-tacred-gen-roberta-base_sub01_gen300_tau15-2022-02-11_type_inserted_2022-01-11.json --suffix sub01tau15
 ```
 
 ## Test
